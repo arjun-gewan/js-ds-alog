@@ -1,0 +1,11 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "JavaScript Data Structures & Algorithms repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node examples/linkedListExample.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
